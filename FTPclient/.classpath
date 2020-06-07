@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/com/Downloads/commons-net-3.3-ftp.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/com/Downloads/SHAREit/LDN-LX2/file/commons-net-1.4.1/commons-net-1.4.1/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/com/Downloads/SHAREit/LDN-LX2/file/commons-net-3.0.1-ftp.jar/commons-net-3.0.1-ftp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/com/Downloads/SHAREit/LDN-LX2/file/commons-net-3.6-bin/commons-net-3.6/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/com/Downloads/SHAREit/LDN-LX2/file/commons-net-3.6-bin/commons-net-3.6/commons-net-3.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/com/Downloads/SHAREit/LDN-LX2/file/commons-net-3.6-bin/commons-net-3.6/commons-net-examples-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/rymaaaaa/ryma 3eme 2serie/gestion hopital/Marouqui/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
